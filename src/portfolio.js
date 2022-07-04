@@ -38,7 +38,7 @@ const socialMediaLinks = {
   gmail: "ifeanyinneji777@gmail.com",
   facebook: "https://www.facebook.com/saad.pasta7",
   medium: "https://medium.com/@ifeanyinneji777",
-  kaggle: "https://www.kaggle.com/ifeanyinneji"
+  kaggle: "https://www.kaggle.com/ifeanyinneji",
   twitter: "https://twitter.com/Neji_14",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
